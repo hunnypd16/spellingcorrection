@@ -1,0 +1,2 @@
+correct spelling using textblob library
+install textblob:pip install textblob
